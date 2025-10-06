@@ -1,4 +1,4 @@
-- Also called imperative or structural programming
+- Procedural programming, also called imperative or structural programming
 - Break the logic into procedures(FUNCTIONS,ROUTINES,SUBROUTINES)
 - Program state is typically held in variables, and you pass data often via arguments.
 - Manipulate the state inside procedures.
