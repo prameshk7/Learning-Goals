@@ -1,0 +1,8 @@
+- Also called imperative or structural programming
+- Break the logic into procedures(FUNCTIONS,ROUTINES,SUBROUTINES)
+- Program state is typically held in variables, and you pass data often via arguments.
+- Manipulate the state inside procedures.
+- Control flow (loops, conditionals, calls) is explicit.
+- It emphasizes “do these steps in order, call this function to do a sub-task, return result, continue”.
+- Can be difficult to scale
+- Lead to spaghetti code (diorganized and hard-to-maintain)
