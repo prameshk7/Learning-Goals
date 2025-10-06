@@ -1,31 +1,31 @@
-Programs are organized into xlases which are used to create objexcts
-Objects goup together data and actions that operatie in that data so taht ir's and organized unit.
-OOP makes it easier to manage a large adn complex syatem
+Programs are organized into classes which are used to create objects
+Objects goup together data and actions that operatie in that data so that it's and organized unit.
+OOP makes it easier to manage a large and complex system.
 
-What is the main focus of OOP, and how does it organized software design?
+1. What is the main focus of OOP, and how does it organized software design?
 -> Main focus on objects, This helps organize software design bundling the data together.
 
-WHat is abstraction in OOP, and how does it simplify working with objects?
-Abstarction in OOP means hiding teh cioimplex details and showing only what is necessary , it simplifies working with objects by lettign you use their funtionaliteis wh=ithout needing to knwo all their behind the scenese implementations.
+2. What is abstraction in OOP, and how does it simplify working with objects?
+-> Abstarction in OOP means hiding teh cioimplex details and showing only what is necessary , it simplifies working with objects by lettign you use their funtionaliteis wh=ithout needing to knwo all their behind the scenese implementations.
 
-HOw does poltmorsphism make code more flexible and adaptable in OOP?
-By allwoing the same method and function to work in different ways depening on the object it is ued with. It reduced teh need for hectuc code and makes it easier to handle different types of object in consisitent way.
+3. How does poltmorsphism make code more flexible and adaptable in OOP?
+-> By allwoing the same method and function to work in different ways depening on the object it is ued with. It reduced teh need for hectuc code and makes it easier to handle different types of object in consisitent way.
 
-What is inheritcance in OOP, and hwo does is help reduce code duplicationm?
-Inheritance in oop is a way for one class to use the properties and methods of another class this helps
+4. What is inheritcance in OOP, and hwo does is help reduce code duplicationm?
+-> Inheritance in oop is a way for one class to use the properties and methods of another class this helps
 reduce code duplication by allowing you to reuse existing code in new classes instead of writing it
 again.
 
-What does encapsulation do in oop and why is it important for control and
+5. What does encapsulation do in oop and why is it important for control and
 security 
-Encapsulation in OOP bundles data and the methods that work on it
+-> Encapsulation in OOP bundles data and the methods that work on it
 into a single unit called an object and it restricts direct access to the data
 this is important for control and security because it ensures that data is only modified in controlled ways
 reducing errors and preventing unintended interference 
 
-How does oop address the challenges of procedural programming such as code duplication and
+6. How does oop address the challenges of procedural programming such as code duplication and
 interdependencies?
-oop addresses challenges like code duplication and interdependencies by organizing code
+-> OOP addresses challenges like code duplication and interdependencies by organizing code
 into objects that combine data and behavior this reduces redundancy by reusing code through inheritance and
 makes programs easier to manage by keeping related functionality within self-contained objects reducing the risk
 of unintended interactions between parts of the
