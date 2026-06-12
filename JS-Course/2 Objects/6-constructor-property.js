@@ -1,4 +1,5 @@
 // Lesson
+
 function Programmer(name, preferredLanguage) {
     this.name = name;
     this.preferredLanguage = preferredLanguage;
@@ -6,4 +7,5 @@ function Programmer(name, preferredLanguage) {
 
 const newProgrammer = new Programmer('Alice', 'JavaScript');
 console.log(newProgrammer.constructor);
+console.log('Alice')
 
