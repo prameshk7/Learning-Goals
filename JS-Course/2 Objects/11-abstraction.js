@@ -20,7 +20,7 @@ function Programmer(name, preferredLanguage) {
 }
 
 const programmer = new Programmer("Steven", "JavaScript");
-// programmer.writeCode();
+ programmer.writeCode();
 // programmer.startDay();
 // console.log('----------------\nExercise\n');
 
