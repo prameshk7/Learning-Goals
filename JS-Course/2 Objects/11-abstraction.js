@@ -60,3 +60,4 @@ myList.addItem('Banana', 5);
 myList.addItem('Apple', 3);
 // myList.displayItems();
 console.log(`Total quantity: ${myList.getTotalQuantity()}`);
+console.log(`Total quantity: ${myList.getTotalQuantity()}`)
