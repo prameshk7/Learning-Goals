@@ -9,6 +9,6 @@ function FrontEndProgrammer(name, specialization, preferredFramework) {
 }
 
 const steven = new FrontEndProgrammer('Steven', 'Front-end', 'React');
-console.log(steven.name)
+console.log(steven.name)!
 console.log(steven.specialization);
 console.log(steven.preferredFramework);
